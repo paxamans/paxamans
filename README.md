@@ -4,7 +4,7 @@
 
 
 # 💫 About Me:
-🌱 I’m currently learning ML<br>👯 I’m looking to collaborate on ML projects<br>👨‍💻 All of my projects are available at my [Kaggle](https://www.kaggle.com/code/igorbeketov)
+🌱 I’m currently learning ML<br>👯 I’m looking to collaborate on ML projects<br>👨‍💻 All of my projects are available at my [Kaggle](https://www.kaggle.com/igorbeketov)
 
 
 # 💻 Tech Stack:
