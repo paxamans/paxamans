@@ -5,7 +5,13 @@
 
 # 💫 About Me:
 🌱 I’m currently learning ML<br>👯 I’m looking to collaborate on ML projects<br>👨‍💻 All of my projects are available at my [Kaggle](https://www.kaggle.com/igorbeketov)
+<details>
+  <summary>?</summary>
 
+  ```
+  I use Arch, btw :D
+  ```
+</details>
 
 # 💻 Tech Stack:
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
