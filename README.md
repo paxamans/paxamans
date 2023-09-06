@@ -2,6 +2,7 @@
 <h3 align="center">Data Nerd</h3>
 
 
+[![Kaggle Badge](https://img.shields.io/badge/-my_kaggle-mediumorchid?&style=flat&logo=kaggle&logoColor=#25bfff&link=https://www.kaggle.com/igorbeketov)](https://www.kaggle.com/igorbeketov)
 
 # 💫 About Me:
 🌱 I’m currently learning ML<br>👯 I’m looking to collaborate on ML projects<br>👨‍💻 All of my projects are available at my [Kaggle](https://www.kaggle.com/igorbeketov)
